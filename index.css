@@ -50,12 +50,16 @@ body{
 }
 @media(max-width:600px){
     .blue_box{
-        width: 90%;
-        height: 90%;
+        width: 80%;
+        height: 80%;
     }
     .small_box{
         width: 80%;
         height: 80%;
+    }
+    #img{
+        width: 80%;
+        height: 70%;
     }
 
 }
